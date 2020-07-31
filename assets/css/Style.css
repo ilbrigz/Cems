@@ -1,0 +1,24 @@
+
+
+* {
+font-family: 'Montserrat', sans-serif;
+}
+
+.myh1 {
+  color: #353535 !important;
+  font-size: 28px;
+}
+
+.btn-outline-primary {
+  color: #353535 !important;
+  background-color: #ffe600 !important;
+  border-color: #353535 !important;
+}
+.nav-link {
+  font-size: 16px;
+}
+.navbar {
+  border-bottom: solid 1px;
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
